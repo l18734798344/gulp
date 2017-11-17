@@ -72,3 +72,4 @@ gulp.task('watch', function() {
 gulp.task('default', ['testLess','uglifyJs','cleanCss','sass','htmlmin','concat','rename'], function() {
     console.log('执行完毕');
 });
+111111
